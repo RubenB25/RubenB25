@@ -5,7 +5,7 @@
 
 # 👋 Hola, Bienvenido a mi repositorio 👋
 
-### ¡Soy Rubén Botello, un apasionado programador Full Stack que está dando sus primeros pasos en el mundo de la tecnología. Mi principal objetivo es aprender y crecer constantemente.
+### ~~ ¡Soy Rubén Botello, un apasionado programador Full Stack que está dando sus primeros pasos en el mundo de la tecnología. Mi principal objetivo es aprender y crecer constantemente. ~~
 
 </div>
 
