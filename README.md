@@ -5,7 +5,7 @@
 
 # 👋 Hola, Bienvenido a mi repositorio 👋
 
-###  ¡Soy Rubén Botello, un apasionado `Programador Full Stack` que está dando sus primeros pasos en el mundo de la tecnología. Mi principal objetivo es aprender y crecer constantemente.
+###  ¡Soy Rubén Botello, un apasionado `Programador Full Stack` que está dando sus primeros pasos en el mundo de la tecnología. Mi principal objetivo es aprender y crecer constantemente junto con los que me rodean.
 
 </div>
 
@@ -18,4 +18,4 @@
 - 💬 Preguntame sobre: **Java, JavaScript, Vue**
 - 📫 Cómo contactarme: **rubenbotello291@gmail.com**
 
-### Te invito a explorar mis proyectos, que incluyen algunos de los trabajos prácticos que realicé en colaboración con grupos formados en los cursos que he completado. Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados como tú.
+#### Te invito a explorar mis proyectos, que incluyen algunos de los trabajos prácticos que realicé en colaboración con grupos formados en los cursos que he completado. Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados.
