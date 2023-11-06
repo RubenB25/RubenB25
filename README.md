@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <p align="center">
-  <img src="https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif" alt="Texto alternativo">
+  <img src="https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif" alt="Gif-welcome" width="300">
 </p>
 
 # 👋 Hola, Bienvenido a mi repositorio 👋
