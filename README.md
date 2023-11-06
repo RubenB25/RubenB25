@@ -18,4 +18,4 @@
 - 💬 Preguntame sobre: **Java, JavaScript, Vue**
 - 📫 Cómo contactarme: **rubenbotello291@gmail.com**
 
-#### Te invito a explorar mis proyectos, que incluyen algunos de los trabajos prácticos que realicé en colaboración con grupos formados en los cursos que he completado. Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados.
+### Te invito a explorar mis proyectos, que incluyen algunos de los trabajos prácticos que realicé en colaboración con grupos formados en los cursos que he completado. Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados.
