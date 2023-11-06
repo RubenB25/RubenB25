@@ -20,4 +20,4 @@
 
 ### Te invito a explorar mis proyectos, que incluyen algunos de los trabajos prácticos que realicé en colaboración con grupos formados en los cursos que he completado.
 
-### Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados.
+###      Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados.
