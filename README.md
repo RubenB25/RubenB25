@@ -12,10 +12,10 @@
 
 ## Sobre mí:
 
-- 🌱 Estoy aprendiendo ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 Estoy aprendiendo: **Python, Sql, Node.js**
+- 👯 Estoy buscando colaborar en **proyectos de código abierto relacionados con el desarrollo web y aplicaciones de escritorio.**
+- 🤔 Estoy buscando ayuda con: **Spring Boot y PostgreSQL**
 - 💬 Preguntame sobre: **Java, JavaScript, Vue**
-- 📫 Cómo contactarme: rubenbotello291@gmail.com
+- 📫 Cómo contactarme: **rubenbotello291@gmail.com**
 
 #### Te invito a explorar mis proyectos, que incluyen algunos de los trabajos prácticos que realicé en colaboración con grupos formados en los cursos que he completado. Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados como tú.
