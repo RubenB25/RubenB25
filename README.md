@@ -5,12 +5,11 @@
 <h4>Te invito a explorar mis proyectos, que incluyen algunos de los trabajos prácticos que realicé en colaboración con grupos formados en los cursos que he completado. Estoy entusiasmado por compartir mi evolución en este emocionante viaje y espero conectarme y colaborar con otros desarrolladores apasionados como tú.</h4>
 </div>
 <!--
-**RubenB25/RubenB25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RubenB25/RubenB25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
 
--->
 ---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
